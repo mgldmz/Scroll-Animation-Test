@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+
+    .section{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+    }
+
+    .one{
+        background-color: #d8a47f;
+    }
+
+    .two{
+        background-color: #ef8354;
+    }
+
+    .three{
+        background-color: #EE4B6A;
+    }
+
+    .four{
+        background-color: #DF3B57;
+    }
+
+    .five{
+        background-color: #0F7173;
+    }
+
+    .animation{
+        display: none;
+    }
+}

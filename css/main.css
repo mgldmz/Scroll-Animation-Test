@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body .section {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: white;
+}
+
+body .one {
+  background-color: #d8a47f;
+}
+
+body .two {
+  background-color: #ef8354;
+}
+
+body .three {
+  background-color: #EE4B6A;
+}
+
+body .four {
+  background-color: #DF3B57;
+}
+
+body .five {
+  background-color: #0F7173;
+}
+
+body .animation {
+  display: none;
+}
+/*# sourceMappingURL=main.css.map */
